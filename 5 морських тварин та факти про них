@@ -1,0 +1,34 @@
+<html>
+<title>5 морських тварин та факти про них</title>
+
+<body style="background-color:lightblue;">
+    <header>
+      <h1 style="font-family:sans-serif;text-align:center;font-size:50px">5 морських тварин</h1> 
+      <p><img src="https://cdn.pixabay.com/photo/2020/07/25/16/48/seahorse-5437260_1280.png"width="150px" height="200px/"></p>
+      
+    </header>
+    <main style="background-color:lighblue">
+     <img src="https://media.istockphoto.com/id/933906804/photo/octopus.jpg?s=612x612&w=0&k=20&c=6W6GE6_MCn9CPh7vjmyYk-USwHL6LQUogbMRX8unqLI="width="200px" height="170">
+     <h2 style="font-size:40px">восьминіг</h2>  
+      <p style="font-size:20px">Восьминіг - це м'якотілий <b>молюск </b>, у нього <b>3 серця</b> та <b>8 рук</b>. Його їжа — <b>краби, молюски, равлики, дрібна риба, а іноді й інші восьминоги</b>. Вони дуже <b>розумні</b> та мають <b>9 мізків</b>.</p>
+<img src="https://media.istockphoto.com/id/1438305496/de/foto/wei%C3%9Fer-hai-dreht-sich-unter-die-meeresoberfl%C3%A4che.jpg?s=2048x2048&w=is&k=20&c=BAKZoDGvdL3LDy96jyLXgDwo4BAC0TF-qDcDBGQncCQ="width="270px" height="170">
+<h2 style="font-size:40px">велика біла акула</h2>
+<p style="font-size:20px">Велика біла акула - це гігантський <b>хижак</b>. Середня <b>довжина 4,6-4,8 метрів</b>, але іноді бувають і <b>п'яти метрові</b> особини. Великі білі акули <b>на межі зникнення</b>, на землі налічується <b>3500 особин</b>. Вони їдять <b>рибу, ссавців та навіть інших акул</b>.</p>
+<img src="https://cdn.pixabay.com/photo/2023/06/18/21/46/killer-whale-8072814_1280.jpg"width="200px" height="300px">
+<h2 style="font-size:40px">косатка</h2>
+<p style="font-size:20px">Косатка – це зубастий <b>китоподібний хижак</b>.  вони сягають від <b>8 до 10 метрів завдовжки</b>.  Кити їдять <b>рибу, молюски, тюленів, інших китів та інше</b>.  Вони ставляться дуже доброзичливо до людей.</p>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYkRY1tIFEEsY3rIhclNy7uQ5NyV4InTUh9w&s="width="400px" height="260px">
+<h2 style="font-size:40px">синій кит</h2>
+<p style="font-size:20px">Синій кит – вони є найбільшими тваринами у всій історії, кит може досягати до <b>33 метрів</b> та важити близько <b>150 тон</b>. Вони харчуються <b>планктонами</b>.  Гігант може спілкуватися з іншими особами до 33 км.</p>
+<img src="https://cdn.pixabay.com/photo/2014/07/30/23/14/turtle-405801_1280.jpg"width="230px" height="200px">
+<h2 style="font-size:40px">морська черепаха</h2>
+<p style="font-size:20px">Морська черепаха - це рептилія, яка може перебувати під водою 5 годин.  Вони розвивають швидкість до 35 км/год, це швидше за людину.  Вони харчуються <b>молюсками, ракоподібними, рибами та водоростями</b>.</p>
+    </main>
+    <footer>
+       Саша Іванов
+       +380 96 445 92 01
+      
+    </footer>
+</body>
+
+</html>
